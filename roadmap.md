@@ -12,7 +12,7 @@ Este archivo contiene mi hoja de ruta para convertirme en un referente técnico 
 
 \- \[x] Aprender comandos básicos de Git
 
-\- \[ ] Subir mi primer archivo a GitHub
+\- \[X] Subir mi primer archivo a GitHub
 
 
 
